@@ -194,10 +194,10 @@
 <library name="dcジャック_mirror">
 <packages>
 <package name="DCジャック">
-<wire x1="0" y1="4.5" x2="0" y2="-4.5" width="0.127" layer="22"/>
-<wire x1="0" y1="-4.5" x2="14.5" y2="-4.5" width="0.127" layer="22"/>
-<wire x1="14.5" y1="-4.5" x2="14.5" y2="4.5" width="0.127" layer="22"/>
-<wire x1="14.5" y1="4.5" x2="0" y2="4.5" width="0.127" layer="22"/>
+<wire x1="0" y1="4.5" x2="0" y2="-4.5" width="0.127" layer="21"/>
+<wire x1="0" y1="-4.5" x2="14.5" y2="-4.5" width="0.127" layer="21"/>
+<wire x1="14.5" y1="-4.5" x2="14.5" y2="4.5" width="0.127" layer="21"/>
+<wire x1="14.5" y1="4.5" x2="0" y2="4.5" width="0.127" layer="21"/>
 <pad name="GND" x="7.8" y="0" drill="1.8"/>
 <pad name="VCC" x="13.6" y="0" drill="1.8"/>
 <pad name="GND2" x="10.6" y="4.8" drill="1.8"/>
